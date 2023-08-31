@@ -1,11 +1,13 @@
 # portfoliocode
 A fully responsive website created using HTML, CSS and Javascript, a simplistic rhyming word program and a colorful quiz with Computer Science related questions with the use of HTML, Javascript and CSS
 
-The website's files are: THE CSS, IMAGES AND JS FOLDER AND THE INDEX.HTML.
+My website's files are: THE CSS, IMAGES AND JS FOLDER AND THE INDEX.HTML.
 
 The translator's files are: rhymingwords.py
 
 The game's files are: QUIZ.HTML, SCRIPT.JS and STYLE.CSS
+
+
 
 
 
